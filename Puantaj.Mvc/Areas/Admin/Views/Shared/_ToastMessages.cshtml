@@ -1,0 +1,85 @@
+﻿@model string
+
+<!-- Success Add Toast Message -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="updateSuccessToast" class="toast bg-success" style="color: white;" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5000">
+        <div class="toast-header bg-dark">
+            <i class="fas fa-check-circle me-2"></i>
+            <strong class="me-auto">Başarılı</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Kayıt güncellendi.
+        </div>
+    </div>
+</div>
+
+<!-- Error Add Toast Message -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="updateErrorToast" class="toast bg-danger" style="color: white;" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5000">
+        <div class="toast-header">
+            <i class="fas fa-exclamation-circle"></i>
+            <strong class="me-auto">Güncellenemedi</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            @Model Eklenirken Hata Oluştu.
+        </div>
+    </div>
+</div>
+
+<!-- Success Update Toast Message -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="updateSuccessToast" class="toast bg-success" style="color: white;" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5000">
+        <div class="toast-header bg-dark">
+            <i class="fas fa-check-circle me-2"></i>
+            <strong class="me-auto">Başarılı</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Kayıt güncellendi.
+        </div>
+    </div>
+</div>
+
+<!-- Error Update Toast Message -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="updateErrorToast" class="toast bg-danger" style="color: white;" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5000">
+        <div class="toast-header">
+            <i class="fas fa-exclamation-circle"></i>
+            <strong class="me-auto">Güncellenemedi</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            @Model Güncellenirken Hata Oluştu.
+        </div>
+    </div>
+</div>
+
+<!-- Success Delete Toast Message -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="updateSuccessToast" class="toast bg-success" style="color: white;" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5000">
+        <div class="toast-header bg-dark">
+            <i class="fas fa-check-circle me-2"></i>
+            <strong class="me-auto">Başarılı</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            @Model silindi.
+        </div>
+    </div>
+</div>
+
+<!-- Error Delete Toast Message -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="updateErrorToast" class="toast bg-danger" style="color: white;" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5000">
+        <div class="toast-header">
+            <i class="fas fa-exclamation-circle"></i>
+            <strong class="me-auto">Silinemedi</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            @Model Silinirken Hata Oluştu.
+        </div>
+    </div>
+</div>

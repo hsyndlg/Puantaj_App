@@ -1,0 +1,30 @@
+﻿@model List<User>
+
+<div class="container p-3">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Kullanıcı Adı</th>
+                <th scope="col">Email Adresi</th>
+                <th scope="col">Email Doğrulama</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var user = User.Identities.ToList();
+                int i = 1;
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@i</td>
+                        <td>@item.UserName</td>
+                        <td>@item.Email</td>
+                        <td>@item.EmailConfirmed</td>
+                    </tr>
+                    i++;
+                }
+            }
+        </tbody>
+    </table>
+</div>

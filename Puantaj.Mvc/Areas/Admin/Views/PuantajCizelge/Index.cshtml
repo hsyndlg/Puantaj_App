@@ -1,0 +1,124 @@
+﻿@model PuantajCizelgeListDto
+<div class="container-fluid pt-4 px-4">
+    <div class="row vh-100 bg-secondary rounded align-items-center justify-content-center mx-0">
+        <div class="col-md-6 text-center">
+            <table id="puantajcizelge" class="table table-striped table-bordered" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Proje Adı</th>
+                        <th>Personel Adı</th>
+                        <th>Birim Maliyet</th>
+                        <th>Yıl</th>
+                        <th>Ay</th>
+                        <th>Gün 1</th>
+                        <th>Gün 2</th>
+                        <th>Gün 3</th>
+                        <th>Gün 4</th>
+                        <th>Gün 5</th>
+                        <th>Gün 6</th>
+                        <th>Gün 7</th>
+                        <th>Gün 8</th>
+                        <th>Gün 9</th>
+                        <th>Gün 10</th>
+                        <th>Gün 11</th>
+                        <th>Gün 12</th>
+                        <th>Gün 13</th>
+                        <th>Gün 14</th>
+                        <th>Gün 15</th>
+                        <th>Gün 16</th>
+                        <th>Gün 17</th>
+                        <th>Gün 18</th>
+                        <th>Gün 19</th>
+                        <th>Gün 20</th>
+                        <th>Gün 21</th>
+                        <th>Gün 22</th>
+                        <th>Gün 23</th>
+                        <th>Gün 24</th>
+                        <th>Gün 25</th>
+                        <th>Gün 26</th>
+                        <th>Gün 27</th>
+                        <th>Gün 28</th>
+                        <th>Gün 29</th>
+                        <th>Gün 30</th>
+                        <th>Gün 31</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.PuantajCizelges)
+                    {
+                        <tr>
+                            <td>@item.Proje</td>
+                            <td>@item.Personel</td>
+                            <td>@item.BirimMaliyet</td>
+                            <td>@item.Yil</td>
+                            <td>@item.Ay</td>
+                            <td>@item.Gun1</td>
+                            <td>@item.Gun2</td>
+                            <td>@item.Gun3</td>
+                            <td>@item.Gun4</td>
+                            <td>@item.Gun5</td>
+                            <td>@item.Gun6</td>
+                            <td>@item.Gun7</td>
+                            <td>@item.Gun8</td>
+                            <td>@item.Gun9</td>
+                            <td>@item.Gun10</td>
+                            <td>@item.Gun11</td>
+                            <td>@item.Gun12</td>
+                            <td>@item.Gun13</td>
+                            <td>@item.Gun14</td>
+                            <td>@item.Gun15</td>
+                            <td>@item.Gun16</td>
+                            <td>@item.Gun17</td>
+                            <td>@item.Gun18</td>
+                            <td>@item.Gun19</td>
+                            <td>@item.Gun20</td>
+                            <td>@item.Gun21</td>
+                            <td>@item.Gun22</td>
+                            <td>@item.Gun23</td>
+                            <td>@item.Gun24</td>
+                            <td>@item.Gun25</td>
+                            <td>@item.Gun26</td>
+                            <td>@item.Gun27</td>
+                            <td>@item.Gun28</td>
+                            <td>@item.Gun29</td>
+                            <td>@item.Gun30</td>
+                            <td>@item.Gun31</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section DataTable
+    {
+    <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.1/js/dataTables.bootstrap4.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#puantajcizelge').DataTable({
+                //paging: false,
+                //ordering: false,
+                info: false,
+            });
+        });
+    </script>
+}
+
+@section DataTableStyle
+    {
+    <style>
+        #puantajcizelge_length {
+            display: none
+        }
+
+        #puantajcizelge_filter {
+            margin-bottom: 30px
+        }
+
+        #puantajcizelge_paginate {
+            margin-top: 30px
+        }
+    </style>
+}

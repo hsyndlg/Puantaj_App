@@ -1,0 +1,12 @@
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\bin\Debug\net7.0\Puantaj.Services.deps.json
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\bin\Debug\net7.0\Puantaj.Services.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\bin\Debug\net7.0\Puantaj.Services.pdb
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.csproj.AssemblyReference.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.AssemblyInfoInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.AssemblyInfo.cs
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\refint\Puantaj.Services.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\Puantaj.Services.pdb
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Business\obj\Debug\net7.0\ref\Puantaj.Services.dll

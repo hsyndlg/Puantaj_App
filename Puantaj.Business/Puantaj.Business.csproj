@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Puantaj.Data\Puantaj.Data.csproj" />
+    <ProjectReference Include="..\Puantaj.Entity\Puantaj.Entity.csproj" />
+    <ProjectReference Include="..\Puantaj.Shared\Puantaj.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿@model UserAddDto 
+ <form asp-controller="Home" asp-action="AddUser" method="POST">
+    <div class="container-fluid position-relative d-flex align-items-center justify-content-center mt-5">
+        <div class="col-sm-12 col-xl-6">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Kullanı Ekleme Ekranı</h6>
+                <form>
+                    <div class="row mb-3">
+                        <label asp-for="UserName" class="col-sm-2 col-form-label">User Name</label>
+                        <div class="col-sm-10">
+                            <input type="UserName" asp-for="UserName" class="form-control" id="Email">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label asp-for="Email" class="col-sm-2 col-form-label">Email</label>
+                        <div class="col-sm-10">
+                            <input type="Email" asp-for="Email" class="form-control" id="Email">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label asp-for="Password" class="col-sm-2 col-form-label">Password</label>
+                        <div class="col-sm-10">
+                            <input type="password" asp-for="Password" class="form-control" id="Password">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Kaydet</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</form>

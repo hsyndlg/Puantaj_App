@@ -1,0 +1,8 @@
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.csproj.AssemblyReference.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.AssemblyInfoInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.AssemblyInfo.cs
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.RazorAssemblyInfo.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Mvc\obj\Debug\net5.0\Puantaj.Mvc.RazorAssemblyInfo.cs

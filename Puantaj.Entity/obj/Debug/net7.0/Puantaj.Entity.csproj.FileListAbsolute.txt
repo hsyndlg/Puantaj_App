@@ -1,0 +1,15 @@
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\bin\Debug\net7.0\Puantaj.Entity.deps.json
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\bin\Debug\net7.0\Puantaj.Entity.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\bin\Debug\net7.0\Puantaj.Entity.pdb
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.csproj.AssemblyReference.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.AssemblyInfoInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.AssemblyInfo.cs
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\refint\Puantaj.Entity.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.pdb
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\ref\Puantaj.Entity.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\bin\Debug\net7.0\Puantaj.Shared.dll
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\bin\Debug\net7.0\Puantaj.Shared.pdb
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Entity\obj\Debug\net7.0\Puantaj.Entity.csproj.CopyComplete

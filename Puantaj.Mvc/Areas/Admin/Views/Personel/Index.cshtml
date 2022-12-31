@@ -1,0 +1,251 @@
+﻿@model IDataResult<PersonelListDto>
+
+<div class="container-fluid pt-4 px-4">
+    <div class="h-75 bg-secondary rounded p-5">
+        <div class="row mb-5 ml-5 pl-5 justify-content-center">
+            <div class="col-sm-12 col-xl-6">
+                <div class="bg-secondary rounded">
+                    <a id="refreshButton" class="btn btn-outline-light m-2">Verileri Yenile<i class="fas fa-plus ms-2"></i></a>
+                    <a id="deleteButton" class="btn btn-outline-primary m-2">Personel Sil<i class="fas fa-trash-alt ms-2"></i></a>
+                    <a data-bs-toggle="modal" data-bs-target="#updateModal" class="btn btn-outline-warning m-2">Personel Güncelle<i class="far fa-edit ms-2"></i></a>
+                    <a data-bs-toggle="modal" data-bs-target="#addModal" class="btn btn-outline-success m-2">Personel Ekle<i class="fas fa-plus ms-2"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-sm-12 text-center">
+                <div class="table-dark bg-dark table-striped" id="example-table"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal(Create) -->
+<div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content bg-secondary">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Users Add</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalAdi" placeholder="Personel Adı">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalSoyadi" placeholder="Personel Soyadı">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalTckn" placeholder="Personel TC Numarası">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalSicilNo" placeholder="Personel Sicil Numarası">
+                </div>
+                <div class="mb-3">
+                    <input type="date" class="form-control" id="inputAddModalDogumTarihi" placeholder="Personel Dogum Tarihi">
+                </div>
+                <div class="mb-3">
+                    <input type="date" class="form-control" id="inputAddModalBaslangicTarihi" placeholder="Personel Başlangıç Tarihi">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalDogumYeri" placeholder="Personel Doğum Yeri">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalSskno" placeholder="Personel SSK Numarası">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalBabaAdi" placeholder="Personel Baba Adı">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalCariHesapKodu" placeholder="Personel Cari Kodu">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalCepNo" placeholder="Personel Cep Telefon">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputAddModalEmail" placeholder="Email">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                <button id="addModalSaveBtn" type="button" class="btn btn-success" data-bs-dismiss="modal">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal(Update) -->
+<div class="modal fade" id="updateModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content bg-secondary">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Users Add</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <input type="hidden" class="form-control" id="inputUpdateModalId" value="">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalAdi" placeholder="Personel Adı">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalSoyadi" placeholder="Personel Soyadı">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalTckn" placeholder="Personel TC Numarası">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalSicilNo" placeholder="Personel Sicil Numarası">
+                </div>
+                <div class="mb-3">
+                    <input type="date" class="form-control" id="inputUpdateModalDogumTarihi" placeholder="Personel Dogum Tarihi">
+                </div>
+                <div class="mb-3">
+                    <input type="date" class="form-control" id="inputUpdateModalBaslangicTarihi" placeholder="Personel Başlangıç Tarihi">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalDogumYeri" placeholder="Personel Doğum Yeri">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalSskno" placeholder="Personel SSK Numarası">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalBabaAdi" placeholder="Personel Baba Adı">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalCariHesapKodu" placeholder="Personel Cari Kodu">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalCepNo" placeholder="Personel Cep Telefon">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="inputUpdateModalEmail" placeholder="Email">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                <button id="updateModalSaveBtn" type="button" class="btn btn-success" data-bs-dismiss="modal">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@await Html.PartialAsync("_ToastMessages","Personel")
+
+@section Javascript
+{
+    <script>
+        /* Table */
+        var table = new Tabulator("#example-table", {
+            height: 500,
+            layout: "fitDataStretch",
+            placeholder: "Personel Verisi Bulunamadı",
+            selectable: true,
+            responsiveLayout: true,
+            reactiveData: true,
+            columns: [
+                { title: "Adi", field: "Adi" },
+                { title: "Soyadi", field: "Soyadi" },
+                { title: "Tckn", field: "Tckn" },
+                { title: "SicilNo", field: "SicilNo" },
+                { title: "DogumYeri", field: "DogumYeri" },
+                { title: "Sskno", field: "Sskno" },
+                { title: "BabaAdi", field: "BabaAdi" },
+                { title: "CariHesapKodu", field: "CariHesapKodu" },
+                { title: "CepNo", field: "CepNo" },
+                { title: "Email", field: "Email" },
+            ]
+        });;
+        /* Personel Add */
+        $('#addModalSaveBtn').click(() => {
+
+            $('#addModalSaveBtn').click(() => {
+                $.ajax({
+                    url: 'https://localhost:7208/admin/personel/add',
+                    type: 'POST',
+                    data: {
+                        Adi: $('#inputAddModalAdi').val(),
+                        Soyadi: $('#inputAddModalSoyadi').val(),
+                        Tckn: $('#inputAddModalTckn').val(),
+                        SicilNo: $('#inputAddModalSicilNo').val(),
+                        DogumTarihi: $('#inputAddModalDogumTarihi').val(),
+                        BaslangicTarihi: $('#inputAddModalBaslangicTarihi').val(),
+                        DogumYeri: $('#inputAddModalDogumYeri').val(),
+                        Sskno: $('#inputAddModalSskno').val(),
+                        BabaAdi: $('#inputAddModalBabaAdi').val(),
+                        CariHesapKodu: $('#inputAddModalCariHesapKodu').val(),
+                        CepNo: $('#inputAddModalCepNo').val(),
+                        Email: $('#inputAddModalEmail').val(),
+                    },
+                    success: (data) => {
+                        var toast = new bootstrap.Toast($('#addSuccessToast'));
+                        toast.show();
+                        table.setData("https://localhost:7208/admin/personel/index");
+                    },
+                    error: (message) => {
+                        var toast = new bootstrap.Toast($('#addErrorToast'));
+                        toast.show()
+                    }
+                })
+            })
+        })
+        /* Personel Update */
+        $('#updateModalSaveBtn').click(() => {
+
+            $('#updateModalSaveBtn').click(() => {
+                $.ajax({
+                    url: 'https://localhost:7208/admin/personel/update',
+                    type: 'POST',
+                    data: {
+                        Id: $('#inputUpdateModalId').val(),
+                        Adi: $('#inputUpdateModalAdi').val(),
+                        Soyadi: $('#inputUpdateModalSoyadi').val(),
+                        Tckn: $('#inputUpdateModalTckn').val(),
+                        SicilNo: $('#inputUpdateModalSicilNo').val(),
+                        DogumTarihi: $('#inputUpdateModalDogumTarihi').val(),
+                        BaslangicTarihi: $('#inputUpdateModalBaslangicTarihi').val(),
+                        DogumYeri: $('#inputUpdateModalDogumYeri').val(),
+                        Sskno: $('#inputUpdateModalSskno').val(),
+                        BabaAdi: $('#inputUpdateModalBabaAdi').val(),
+                        CariHesapKodu: $('#inputUpdateModalCariHesapKodu').val(),
+                        CepNo: $('#inputUpdateModalCepNo').val(),
+                        Email: $('#inputUpdateModalEmail').val(),
+                    },
+                    success: (data) => {
+                        var toast = new bootstrap.Toast($('#addSuccessToast'));
+                        toast.show();
+                        table.setData("https://localhost:7208/admin/personel/index");
+                    },
+                    error: (message) => {
+                        var toast = new bootstrap.Toast($('#addErrorToast'));
+                        toast.show()
+                    }
+                })
+            })
+        })
+        /* Personel Delete */
+        //$('#deleteButtonSave').click(() => {
+        //    $.ajax({
+        //        url: 'https://localhost:7208/admin/personel/delete',
+        //        type: 'POST',
+        //        data: {
+        //            Id: /* Table Rowdan Seçilen */,
+        //        },
+        //        success: (data) => {
+        //            var toast = new bootstrap.Toast($('#addSuccessToast'));
+        //            toast.show();
+        //            table.setData("https://localhost:7208/admin/personel/index");
+        //        },
+        //        error: (message) => {
+        //            var toast = new bootstrap.Toast($('#addErrorToast'));
+        //            toast.show()
+        //        }
+        //    })
+        //})
+        /* Personel Refresh */
+        $('#refreshButton').click(() => {
+            table.setData("https://localhost:7208/admin/personel/GetListPersonels");
+        })
+    </script>
+}

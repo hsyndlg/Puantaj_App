@@ -1,0 +1,1473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Puantaj.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Puantaj.Mvc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\AdminLTE\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\AdminLTE\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\AdminLTE\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\AdminLTE\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\AdminLTE\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\.babelrc.json",
+      "PackagePath": "staticwebassets\\Tabulator\\.babelrc.json"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\.editorconfig",
+      "PackagePath": "staticwebassets\\Tabulator\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\.eslintignore",
+      "PackagePath": "staticwebassets\\Tabulator\\.eslintignore"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\.eslintrc.js",
+      "PackagePath": "staticwebassets\\Tabulator\\.eslintrc.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\.gitignore",
+      "PackagePath": "staticwebassets\\Tabulator\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets\\Tabulator\\CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\Tabulator\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\LICENSE",
+      "PackagePath": "staticwebassets\\Tabulator"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\README.md",
+      "PackagePath": "staticwebassets\\Tabulator\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\bower.json",
+      "PackagePath": "staticwebassets\\Tabulator\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\build\\Bundler.js",
+      "PackagePath": "staticwebassets\\Tabulator\\build\\Bundler.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\build\\rollup.js",
+      "PackagePath": "staticwebassets\\Tabulator\\build\\rollup.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap3.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap3.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap3.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap3.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap3.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap3.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap3.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap4.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap4.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap4.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap4.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap4.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap5.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap5.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap5.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bootstrap5.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bootstrap5.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bulma.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bulma.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bulma.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bulma.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_bulma.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_bulma.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_materialize.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_materialize.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_materialize.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_materialize.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_materialize.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_materialize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_materialize.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_materialize.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_midnight.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_midnight.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_midnight.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_midnight.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_midnight.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_midnight.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_midnight.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_midnight.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_modern.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_modern.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_modern.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_modern.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_modern.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_modern.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_modern.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_modern.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_semanticui.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_semanticui.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_semanticui.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_semanticui.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_semanticui.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_semanticui.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_simple.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_simple.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_simple.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_simple.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_simple.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_simple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_simple.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_simple.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_site.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_site.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_site.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_site.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_site.min.css",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\css\\tabulator_site.min.css.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\css\\tabulator_site.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\jquery_wrapper.js",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\jquery_wrapper.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator.js",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator.js.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator.min.js",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator.min.js.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator_esm.js",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator_esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator_esm.js.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator_esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator_esm.min.js",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator_esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\dist\\js\\tabulator_esm.min.js.map",
+      "PackagePath": "staticwebassets\\Tabulator\\dist\\js\\tabulator_esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\package-lock.json",
+      "PackagePath": "staticwebassets\\Tabulator\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\package.json",
+      "PackagePath": "staticwebassets\\Tabulator\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\builds\\esm.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\builds\\esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\builds\\jquery_wrapper.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\builds\\jquery_wrapper.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\builds\\usd.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\builds\\usd.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\ColumnManager.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\ColumnManager.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\CoreFeature.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\CoreFeature.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\FooterManager.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\FooterManager.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\Module.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\Module.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\RowManager.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\RowManager.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\Tabulator.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\Tabulator.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\TabulatorFull.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\TabulatorFull.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\cell\\Cell.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\cell\\Cell.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\cell\\CellComponent.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\cell\\CellComponent.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\column\\Column.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\column\\Column.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\column\\ColumnComponent.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\column\\ColumnComponent.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\column\\defaults\\options.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\column\\defaults\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\defaults\\options.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\defaults\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\modules\\core.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\modules\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\modules\\optional.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\modules\\optional.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\rendering\\Renderer.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\rendering\\Renderer.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\rendering\\renderers\\BasicHorizontal.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\rendering\\renderers\\BasicHorizontal.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\rendering\\renderers\\BasicVertical.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\rendering\\renderers\\BasicVertical.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\rendering\\renderers\\VirtualDomHorizontal.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\rendering\\renderers\\VirtualDomHorizontal.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\rendering\\renderers\\VirtualDomVertical.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\rendering\\renderers\\VirtualDomVertical.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\row\\PseudoRow.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\row\\PseudoRow.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\row\\Row.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\row\\Row.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\row\\RowComponent.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\row\\RowComponent.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\Alert.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\Alert.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\ComponentFunctionBinder.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\ComponentFunctionBinder.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\DataLoader.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\DataLoader.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\DeprecationAdvisor.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\DeprecationAdvisor.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\ExternalEventBus.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\ExternalEventBus.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\Helpers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\Helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\InteractionMonitor.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\InteractionMonitor.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\InternalEventBus.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\InternalEventBus.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\ModuleBinder.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\ModuleBinder.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\OptionsList.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\OptionsList.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\Popup.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\Popup.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\core\\tools\\TableRegistry.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\core\\tools\\TableRegistry.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Accessor\\Accessor.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Accessor\\Accessor.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Accessor\\defaults\\accessors.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Accessor\\defaults\\accessors.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Ajax\\Ajax.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Ajax\\Ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\config.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\contentTypeFormatters.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\contentTypeFormatters.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\loaderPromise.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\loaderPromise.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\urlGenerator.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Ajax\\defaults\\urlGenerator.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Clipboard\\Clipboard.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Clipboard\\Clipboard.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Clipboard\\defaults\\pasteActions.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Clipboard\\defaults\\pasteActions.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Clipboard\\defaults\\pasteParsers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Clipboard\\defaults\\pasteParsers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ColumnCalcs\\CalcComponent.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ColumnCalcs\\CalcComponent.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ColumnCalcs\\ColumnCalcs.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ColumnCalcs\\ColumnCalcs.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ColumnCalcs\\defaults\\calculations.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ColumnCalcs\\defaults\\calculations.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Comms\\Comms.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Comms\\Comms.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\DataTree\\DataTree.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\DataTree\\DataTree.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\Download.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\Download.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\csv.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\csv.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\html.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\html.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\json.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\json.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\jsonLines.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\jsonLines.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\pdf.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\pdf.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\xlsx.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Download\\defaults\\downloaders\\xlsx.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\Edit.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\Edit.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\List.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\List.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\autocomplete.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\autocomplete.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\date.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\datetime.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\datetime.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\input.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\input.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\list.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\list.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\number.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\number.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\progress.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\range.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\select.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\select.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\star.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\star.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\textarea.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\textarea.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\tickCross.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\tickCross.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\time.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\defaults\\editors\\time.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Edit\\inputMask.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Edit\\inputMask.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Export\\Export.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Export\\Export.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Export\\ExportColumn.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Export\\ExportColumn.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Export\\ExportRow.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Export\\ExportRow.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Filter\\Filter.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Filter\\Filter.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Filter\\defaults\\filters.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Filter\\defaults\\filters.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\Format.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\Format.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\buttonCross.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\buttonCross.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\buttonTick.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\buttonTick.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\color.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\color.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\datetime.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\datetime.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\datetimediff.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\datetimediff.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\handle.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\handle.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\html.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\html.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\image.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\link.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\lookup.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\lookup.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\money.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\money.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\plaintext.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\plaintext.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\progress.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\responsiveCollapse.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\responsiveCollapse.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\rowSelection.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\rowSelection.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\rownum.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\rownum.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\star.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\star.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\textarea.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\textarea.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\tickCross.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\tickCross.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\traffic.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Format\\defaults\\formatters\\traffic.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\FrozenColumns\\FrozenColumns.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\FrozenColumns\\FrozenColumns.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\FrozenRows\\FrozenRows.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\FrozenRows\\FrozenRows.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\GroupRows\\Group.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\GroupRows\\Group.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\GroupRows\\GroupComponent.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\GroupRows\\GroupComponent.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\GroupRows\\GroupRows.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\GroupRows\\GroupRows.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\History\\History.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\History\\History.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\History\\defaults\\redoers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\History\\defaults\\redoers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\History\\defaults\\undoers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\History\\defaults\\undoers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\HtmlTableImport\\HtmlTableImport.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\HtmlTableImport\\HtmlTableImport.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Import\\Import.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Import\\Import.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers\\array.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers\\array.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers\\csv.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers\\csv.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers\\json.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Import\\defaults\\importers\\json.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Interaction\\Interaction.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Interaction\\Interaction.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Keybindings\\Keybindings.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Keybindings\\Keybindings.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Keybindings\\defaults\\actions.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Keybindings\\defaults\\actions.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Keybindings\\defaults\\bindings.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Keybindings\\defaults\\bindings.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Layout\\Layout.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Layout\\Layout.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitColumns.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitColumns.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitData.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitData.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitDataGeneral.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitDataGeneral.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitDataStretch.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Layout\\defaults\\modes\\fitDataStretch.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Localize\\Localize.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Localize\\Localize.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Localize\\defaults\\langs.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Localize\\defaults\\langs.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Menu\\Menu.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Menu\\Menu.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\MoveColumns\\MoveColumns.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\MoveColumns\\MoveColumns.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\MoveRows\\MoveRows.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\MoveRows\\MoveRows.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Mutator\\Mutator.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Mutator\\Mutator.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Mutator\\defaults\\mutators.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Mutator\\defaults\\mutators.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Page\\Page.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Page\\Page.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Page\\defaults\\pageCounters.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Page\\defaults\\pageCounters.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Page\\defaults\\pageCounters\\pages.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Page\\defaults\\pageCounters\\pages.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Page\\defaults\\pageCounters\\rows.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Page\\defaults\\pageCounters\\rows.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Persistence\\Persistence.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Persistence\\Persistence.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Persistence\\defaults\\readers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Persistence\\defaults\\readers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Persistence\\defaults\\writers.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Persistence\\defaults\\writers.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Popup\\Popup.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Popup\\Popup.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Print\\Print.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Print\\Print.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ReactiveData\\ReactiveData.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ReactiveData\\ReactiveData.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ResizeColumns\\ResizeColumns.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ResizeColumns\\ResizeColumns.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ResizeRows\\ResizeRows.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ResizeRows\\ResizeRows.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ResizeTable\\ResizeTable.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ResizeTable\\ResizeTable.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\ResponsiveLayout\\ResponsiveLayout.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\ResponsiveLayout\\ResponsiveLayout.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\SelectRow\\SelectRow.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\SelectRow\\SelectRow.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\Sort.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\Sort.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\alphanum.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\alphanum.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\array.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\array.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\boolean.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\boolean.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\date.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\datetime.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\datetime.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\exists.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\exists.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\number.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\number.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\string.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\string.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\time.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Sort\\defaults\\sorters\\time.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Tooltip\\Tooltip.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Tooltip\\Tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Validate\\Validate.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Validate\\Validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\js\\modules\\Validate\\defaults\\validators.js",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\js\\modules\\Validate\\defaults\\validators.js"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\tabulator.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\tabulator.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\functions4.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\functions4.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\functions5.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\functions5.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\tabulator_bootstrap3.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\tabulator_bootstrap3.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\tabulator_bootstrap4.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\tabulator_bootstrap4.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\tabulator_bootstrap5.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\tabulator_bootstrap5.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\variables3.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\variables3.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\variables4.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\variables4.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bootstrap\\variables5.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bootstrap\\variables5.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bulma\\tabulator_bulma.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bulma\\tabulator_bulma.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\bulma\\variables.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\bulma\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\materialize\\tabulator_materialize.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\materialize\\tabulator_materialize.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\materialize\\variables.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\materialize\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\semanticui\\tabulator_semanticui.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\semanticui\\tabulator_semanticui.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\semanticui\\variables.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\semanticui\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\semanticui\\variables_table.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\semanticui\\variables_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\tabulator_midnight.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\tabulator_midnight.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\tabulator_modern.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\tabulator_modern.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\tabulator_simple.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\tabulator_simple.scss"
+    },
+    {
+      "Id": "C:\\Users\\hsynd\\GithubRepos\\PuantajApp\\PuantajApp\\Puantaj.Mvc\\wwwroot\\Tabulator\\src\\scss\\themes\\tabulator_site.scss",
+      "PackagePath": "staticwebassets\\Tabulator\\src\\scss\\themes\\tabulator_site.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Puantaj.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Puantaj.Mvc.props",
+      "PackagePath": "build\\Puantaj.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Puantaj.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\Puantaj.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Puantaj.Mvc.props",
+      "PackagePath": "buildTransitive\\Puantaj.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

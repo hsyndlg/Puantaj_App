@@ -1,0 +1,5 @@
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Shared\obj\Debug\net5.0\Puantaj.Shared.csproj.AssemblyReference.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Shared\obj\Debug\net5.0\Puantaj.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Shared\obj\Debug\net5.0\Puantaj.Shared.AssemblyInfoInputs.cache
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Shared\obj\Debug\net5.0\Puantaj.Shared.AssemblyInfo.cs
+C:\Users\hsynd\GithubRepos\PuantajApp\PuantajApp\Puantaj.Shared\obj\Debug\net5.0\Puantaj.Shared.csproj.CoreCompileInputs.cache
